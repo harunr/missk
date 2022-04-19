@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="16px" viewBox="0 0 23 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-simple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1073.000000, -1451.000000)" fill-rule="nonzero" fill="#1E201D">
+            <g id="arrow-simple" transform="translate(1073.000000, 1451.000000)">
+                <path d="M15.4879327,0.240628669 C15.1745951,-0.0802095565 14.6530962,-0.0802095565 14.3288028,0.240628669 C14.0154652,0.550627766 14.0154652,1.06657032 14.3288028,1.37584681 L20.206256,7.19067835 L0.811463957,7.19067835 C0.359352175,7.19140096 0,7.5469244 0,7.99421913 C0,8.44151387 0.359352175,8.80859904 0.811463957,8.80859904 L20.206256,8.80859904 L14.3288028,14.6125915 C14.0154652,14.9334297 14.0154652,15.4500948 14.3288028,15.7593713 C14.6530962,16.0802096 15.1753255,16.0802096 15.4879327,15.7593713 L22.7567799,8.56797037 C23.0810734,8.25797128 23.0810734,7.74202872 22.7567799,7.43275224 L15.4879327,0.240628669 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
